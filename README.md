@@ -1,4 +1,5 @@
 # Build a Random Quote Machine
+You can view the pages at **https://jcgirardini.github.io/FreeCodeCamp-FEDL_RandomQuoteMachine/**
 
 **Objective:** Build an app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
 
